@@ -13,6 +13,5 @@ sudo rpm -ivh http://rpms.famillecollet.com/enterprise/remi-release-6.rpm
 sudo yum install -y tmux vim-enhanced curl nmap redis php56 php56-php-pdo
 
 #
-# @iii
-# @iiii
+# @i
 #
