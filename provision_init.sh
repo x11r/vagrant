@@ -11,3 +11,7 @@ sudo rpm -ivh http://rpms.famillecollet.com/enterprise/remi-release-6.rpm
 #sudo rpm -ivh http://yum.postgresql.org/9.2/redhat/rhel-6-x86_64/pgdg-redhat92-9.2-7.noarch.rpm
 
 sudo yum install -y tmux vim-enhanced curl nmap redis php56 php56-php-pdo
+
+#
+# @i
+#
