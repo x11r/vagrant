@@ -14,5 +14,5 @@ sudo yum install -y tmux vim-enhanced curl nmap redis php56 php56-php-pdo
 
 #
 # @iii
-# @i
+# @ii
 #
